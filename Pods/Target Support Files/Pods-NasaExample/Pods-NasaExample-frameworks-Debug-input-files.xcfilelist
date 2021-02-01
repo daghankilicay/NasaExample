@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-NasaExample/Pods-NasaExample-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
